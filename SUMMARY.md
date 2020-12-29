@@ -18,3 +18,7 @@
 * [Usage by request type](quota/usage-by-request-type.md)
 * [Purchasing credits](quota/purchasing-credits.md)
 
+## Booster
+
+* [Introduction](booster/introduction.md)
+
