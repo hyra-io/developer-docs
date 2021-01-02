@@ -22,7 +22,7 @@ Please see documentation on the error codes below.
 
 {% page-ref page="error-codes.md" %}
 
-## Catching errors
+In some rare cases we may also send over an `advanced_debug` value in the errors array object. This will contain a more advanced root error. This will be formatted as string, and does not follow a specific structure.This key is typically only sent when a `500` `internal_error` occurs.
 
 
 
