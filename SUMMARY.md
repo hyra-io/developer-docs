@@ -22,3 +22,7 @@
 
 * [Introduction](booster/introduction.md)
 
+## Miscellaneous <a id="misc"></a>
+
+* [Geo](misc/geo.md)
+
