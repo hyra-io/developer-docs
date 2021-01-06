@@ -30,19 +30,19 @@ If success, will return `type` `ip` and an `ip` object. See below for an example
 {
     "type": "ip",
     "ip": {
-    "isp": "Hydra Communications Ltd",
-    "accuracy": 1000,
-    "timezone": "Europe/London",
-    "location": {
-        "longitude": "-2.5917",
-        "latitude": "51.4535",
-        "continent_code:" "EU",
-        "country_code:" "GB",
-        "city": "Bristol",
-        "country": "United Kingdom",
-        "region": "England"
-    },
-    "ip": "77.81.191.180"
+        "isp": "Hydra Communications Ltd",
+        "accuracy": 1000,
+        "timezone": "Europe/London",
+        "location": {
+            "longitude": "-2.5917",
+            "latitude": "51.4535",
+            "continent_code:" "EU",
+            "country_code:" "GB",
+            "city": "Bristol",
+            "country": "United Kingdom",
+            "region": "England"
+        },
+        "ip": "77.81.191.180"
     }
 }
 ```
