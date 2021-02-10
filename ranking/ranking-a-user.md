@@ -55,3 +55,5 @@ Success
 {% endapi-method-spec %}
 {% endapi-method %}
 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/c7575e83a33bc0fb206b)
+
