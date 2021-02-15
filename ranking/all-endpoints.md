@@ -4,7 +4,7 @@ description: All available endpoints on Hyra Ranking
 
 # All endpoints
 
-{% api-method method="post" host="https://ranking.hyra.work" path="/token" %}
+{% api-method method="post" host="https://ranking.hyra.io" path="/token" %}
 {% api-method-summary %}
 Create a token
 {% endapi-method-summary %}
@@ -51,7 +51,7 @@ The ID of the Group
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="put" host="https://ranking.hyra.work" path="/spin" %}
+{% api-method method="put" host="https://ranking.hyra.io" path="/spin" %}
 {% api-method-summary %}
 Spin token
 {% endapi-method-summary %}
@@ -92,7 +92,7 @@ The Hyra Ranking token
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="delete" host="https://ranking.hyra.work" path="/token/{token}" %}
+{% api-method method="delete" host="https://ranking.hyra.io" path="/token/{token}" %}
 {% api-method-summary %}
 Delete token
 {% endapi-method-summary %}
@@ -126,7 +126,7 @@ The Hyra Ranking token
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="https://ranking.hyra.work" path="/rank" %}
+{% api-method method="post" host="https://ranking.hyra.io" path="/rank" %}
 {% api-method-summary %}
 Rank User
 {% endapi-method-summary %}
@@ -179,7 +179,7 @@ The group ID of where you are promoting the user
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="https://ranking.hyra.work" path="/message" %}
+{% api-method method="post" host="https://ranking.hyra.io" path="/message" %}
 {% api-method-summary %}
 Message User
 {% endapi-method-summary %}
@@ -232,7 +232,7 @@ The Roblox Player Id of the user you are messaging
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://ranking.hyra.work" path="/token/{token}" %}
+{% api-method method="get" host="https://ranking.hyra.io" path="/token/{token}" %}
 {% api-method-summary %}
 Get token usage & information
 {% endapi-method-summary %}
@@ -273,7 +273,7 @@ The Hyra Ranking token
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://ranking.hyra.work" path="/logs/{token}" %}
+{% api-method method="get" host="https://ranking.hyra.io" path="/logs/{token}" %}
 {% api-method-summary %}
 Retrieve logs
 {% endapi-method-summary %}

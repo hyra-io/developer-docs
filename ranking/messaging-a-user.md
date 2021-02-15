@@ -12,7 +12,7 @@ This only works on Hyra Cookie accounts. If you are using a Campfire Managed acc
 
 ### Methods
 
-{% api-method method="post" host="https://ranking.hyra.work" path="/message" %}
+{% api-method method="post" host="https://ranking.hyra.io" path="/message" %}
 {% api-method-summary %}
 Message User
 {% endapi-method-summary %}

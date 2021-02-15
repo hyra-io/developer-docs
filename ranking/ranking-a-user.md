@@ -8,7 +8,7 @@ You can rank a user using the ranking API with ease. The rank API supports ranki
 
 ### Methods
 
-{% api-method method="post" host="https://ranking.hyra.work" path="/rank" %}
+{% api-method method="post" host="https://ranking.hyra.io" path="/rank" %}
 {% api-method-summary %}
 Rank User
 {% endapi-method-summary %}
