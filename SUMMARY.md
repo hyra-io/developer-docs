@@ -24,5 +24,6 @@
 
 ## Miscellaneous <a id="misc"></a>
 
+* [Credibility](misc/credibility.md)
 * [Geo](misc/geo.md)
 
