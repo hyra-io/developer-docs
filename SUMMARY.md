@@ -11,6 +11,8 @@
 * [Pagination & Sorting](common/pagination-and-sorting.md)
 * [Error Handling](common/error-handling/README.md)
   * [Error Codes](common/error-handling/error-codes.md)
+* [Authentication](common/authentication/README.md)
+  * [Infastructure](common/authentication/infastructure.md)
 
 ## Quota
 
