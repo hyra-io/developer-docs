@@ -1,6 +1,8 @@
 # Purchasing credits
 
-You can purchase credits using Credit or Debit Card. We've partnered with Stripe, the same payment provider that is used by products such as Lyft, Twitter and Pinterest. We do not handle your credit card information directly.
+Credits can be purchased using Credit or Debit Cards or via PayPal. We grant our merchant partners, Paddle the right to sell access to our platform on our behalf, so any disputes or billing questions should be raised with [Paddle](https://paddle.net). Hyra does not directly handle payments. 
+
+Please be aware that if you are eligible for tax, you will be charged tax on top of the standard pricing.
 
 Each Credit costs **$0.000005** and is purchased before used as part of a top up.
 
