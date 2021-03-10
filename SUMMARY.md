@@ -20,6 +20,10 @@
 * [Usage by request type](quota/usage-by-request-type.md)
 * [Purchasing credits](quota/purchasing-credits.md)
 
+## Activity
+
+* [Get Activity](activity/get-activity.md)
+
 ## Booster
 
 * [Introduction](booster/introduction.md)
