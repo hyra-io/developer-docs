@@ -19,6 +19,7 @@
 * [Quota & Usage](quota/quota.md)
 * [Usage by request type](quota/usage-by-request-type.md)
 * [Purchasing credits](quota/purchasing-credits.md)
+* [How Credit Rollover Works](quota/how-credit-rollover-works.md)
 
 ## Activity
 
