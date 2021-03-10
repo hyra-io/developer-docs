@@ -24,6 +24,7 @@
 
 * [Get Activity](activity/get-activity.md)
 * [Add Activity](activity/add-activity.md)
+* [Remove Activity](activity/remove-activity.md)
 
 ## Booster
 
