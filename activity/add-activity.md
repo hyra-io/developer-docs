@@ -14,22 +14,22 @@ Add activity to a user
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Fire a PUT request to add minutes onto a user
+Fire a POST request to add minutes onto a user
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="userId" type="string" required=true %}
-The numerical ID of the user \(Roblox ID\)
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-
 {% api-method-headers %}
 {% api-method-parameter name="Authorization" type="string" required=true %}
 Your API Key
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
+
+{% api-method-query-parameters %}
+{% api-method-parameter name="userId" type="number" required=true %}
+The numerical ID of the user \(Roblox ID\)
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
 
 {% api-method-body-parameters %}
 {% api-method-parameter name="minutes" type="number" required=true %}
