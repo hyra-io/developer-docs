@@ -23,6 +23,7 @@
 ## Activity
 
 * [Get Activity](activity/get-activity.md)
+* [Add Activity](activity/add-activity.md)
 
 ## Booster
 
