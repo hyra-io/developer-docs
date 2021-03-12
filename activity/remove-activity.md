@@ -26,6 +26,10 @@ Your API Key
 {% endapi-method-headers %}
 
 {% api-method-query-parameters %}
+{% api-method-parameter name="workspace" type="string" required=true %}
+The ID of the Workspace
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="userId" type="number" required=true %}
 The numerical ID of the user \(Roblox ID\)
 {% endapi-method-parameter %}
